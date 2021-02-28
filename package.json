@@ -1,0 +1,26 @@
+{
+  "name": "babel-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangHanCom/babel-demo.git"
+  },
+  "author": "wanghan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangHanCom/babel-demo/issues"
+  },
+  "homepage": "https://github.com/wangHanCom/babel-demo#readme",
+  "devDependencies": {
+    "@babel/types": "^7.13.0",
+    "babel-cli": "^6.26.0"
+  },
+  "dependencies": {
+    "@babel/template": "^7.12.13"
+  }
+}
